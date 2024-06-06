@@ -1,0 +1,27 @@
+{
+  "name": "untitled",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.1.1",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.18",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "postcss": "^8.4.35",
+    "prettier": "3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.12",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.11"
+  }
+}
